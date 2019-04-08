@@ -7,4 +7,4 @@ Download script and run in terminal:
 
 Example result:
 
-[!Example_image](example_img.png)
+(example_img.png)
