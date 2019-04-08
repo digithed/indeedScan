@@ -7,6 +7,4 @@ Download script and run in terminal:
 
 Example result:
 
-<p align="center">
-  <img src="/Users/nickrosenau/Desktop/Screen\ Shot\ 2019-04-08\ at\ 6.27.39\ PM.png" width="350" title="hover text">
-</p>
+[!Example_image](example_img.png)
